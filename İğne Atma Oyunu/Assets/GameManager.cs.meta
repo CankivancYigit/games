@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84831673fbbc5f54d875e0758472032e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - top: {fileID: 1628186959087822074, guid: 4d07ce2fe351ad642902e6653ccd641d, type: 3}
+  - level_txt: {instanceID: 0}
+  - tekrar_paneli: {instanceID: 0}
+  - gelecek_bolum_paneli: {instanceID: 0}
+  - kamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
